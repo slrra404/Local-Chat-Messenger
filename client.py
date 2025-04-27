@@ -26,5 +26,5 @@ try:
             break
 
 finally:
-    print('closing socket')
+    print('closing socket.')
     sock.close()
